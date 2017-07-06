@@ -61,7 +61,6 @@ namespace Login_P202
 
         private void btn_delete_Click_1(object sender, EventArgs e)
         {
-
             int id = Convert.ToInt32(txt_delete_id.Text);
             string query = "Delete from Admin where id='" + id + "'";
             SqlCommand command = new SqlCommand(query, conn);
@@ -72,5 +71,7 @@ namespace Login_P202
                 getAdminData();
             }
         }
+
+
     }
 }
