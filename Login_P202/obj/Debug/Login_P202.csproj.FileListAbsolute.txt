@@ -1,0 +1,10 @@
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\bin\Debug\Login_P202.exe.config
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\bin\Debug\Login_P202.exe
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\bin\Debug\Login_P202.pdb
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.csprojResolveAssemblyReference.cache
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.Form1.resources
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.Properties.Resources.resources
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.csproj.GenerateResource.Cache
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.exe
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.pdb
+C:\Users\Lala.M\Desktop\Login_P202\Login_P202\obj\Debug\Login_P202.Home.resources
